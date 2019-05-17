@@ -1,6 +1,6 @@
 ---
-title: Kỳ thi đánh giá năng lực chuẩn Mỹ
-timezone: Asia/Bangkok
+title: **sữa chua nếp cẩm Phương Thảo**
+timezone: Asia/Vietnam
 collections:
   posts:
     title: Posts
@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Sánh vai với cường quốc Mỹ
+description: sữa chua nếp cẩm handmade ngon-bổ-rẻ
 
 
 permalink: pretty
