@@ -1,0 +1,25 @@
+---
+title: **sữa chua nếp cẩm Phương Thảo**
+timezone: Asia/Vietnam
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+description: *sữa chua nếp cẩm handmade ngon-bổ -rẻ
+permalink: pretty
+© 2019 GitHub, Inc.
